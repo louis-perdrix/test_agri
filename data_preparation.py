@@ -61,3 +61,7 @@ def splitting_dataset(pretraining, same_locations, train_on_all, Adaptation_Type
             print(training[i].shape)
             print(testing[i].shape)  
     return training, testing 
+
+
+
+print('branche louis')
